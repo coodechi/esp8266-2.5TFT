@@ -1,0 +1,11 @@
+.venv/
+.env
+.pio/
+.pioenvs/
+.piolibdeps/
+.board-port
+
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
